@@ -6,6 +6,6 @@
 ### 🔍 whoami
 
 - 💻 I'm a Software Enginee
-- 🏫 I graduated from [Natinal Aviation University](https://nau.edu.ua/en/) in 2023.
+- 🏫 I graduated from [Natinal Aviation University](https://nau.edu.ua/en/).
 - 💬 Ask me about JavaScript, Node.js, React, Vue, Kubernetes, Containerization or Virtualization.
 - 🌱 I'm slowly learning Go.
