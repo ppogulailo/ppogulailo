@@ -5,7 +5,7 @@
 
 ### 🔍 whoami
 
-- 💻 I'm a Software Enginee
+- 💻 I'm a Software Engineer
 - 🏫 I graduated from [Natinal Aviation University](https://nau.edu.ua/en/).
 - 💬 Ask me about JavaScript, Node.js, React, Vue, Kubernetes, Containerization or Virtualization.
 - 🌱 I'm slowly learning Go.
